@@ -12,3 +12,13 @@ It fetches live exchange rates using an API and helps to convert between differe
 - Simple and clean UI
 - Built using only frontend technologies (HTML, CSS, JS)
 - API integration for live exchange rates
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **Exchange Rate API**
+
+---
