@@ -22,3 +22,10 @@ It fetches live exchange rates using an API and helps to convert between differe
 - **Exchange Rate API**
 
 ---
+
+## 📸 Preview
+
+<img width="1292" height="875" alt="Screenshot 2025-09-07 180857" src="https://github.com/user-attachments/assets/f35576a8-415e-4fba-a552-a5defa5f1979" />
+
+---
+
