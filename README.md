@@ -29,3 +29,13 @@ It fetches live exchange rates using an API and helps to convert between differe
 
 ---
 
+## 📂 Project Setup
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Aditya-SE/currency-converter-js.git
+   ```
+2. Open the folder
+3. Run index.html in your browser
+
+
+
