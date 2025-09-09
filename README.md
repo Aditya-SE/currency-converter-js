@@ -39,4 +39,8 @@ It fetches live exchange rates using an API and helps to convert between differe
 
 ---
 
+## File Structure
+
+
+
 
