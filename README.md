@@ -37,8 +37,6 @@ It fetches live exchange rates using an API and helps to convert between differe
 2. Open the folder
 3. Run index.html in your browser
 
----
-
 ## File Structure
 ```
 Currency Converter
@@ -49,7 +47,6 @@ Currency Converter
 |--README.md
 ```
 
----
 
 
 
