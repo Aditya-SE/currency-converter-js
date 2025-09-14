@@ -11,17 +11,17 @@ It fetches live exchange rates using an API and helps to convert between differe
 - Built using only frontend technologies (HTML, CSS, JS)
 - API integration for live exchange rates
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla JS)**
 - **Exchange Rate API**
 
-## 📸 Preview
+## Preview
 
 <img width="1292" height="875" alt="Screenshot 2025-09-07 180857" src="https://github.com/user-attachments/assets/f35576a8-415e-4fba-a552-a5defa5f1979" />
 
-## 📂 Project Setup
+## Project Setup
 1. Clone this repository  
    ```bash
    git clone https://github.com/Aditya-SE/currency-converter-js.git
